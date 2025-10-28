@@ -45,7 +45,9 @@ I love working with **React, Node.js, Tailwind, and Bootstrap**, and continuousl
 ---
 
 ## 📈 GitHub Stats
-![Fentaw's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+## 📈 GitHub Stats
+![Fentaw's GitHub stats](https://github-readme-stats.vercel.app/api?username=fg0712&show_icons=true&theme=radical)
+
 
 ---
 
