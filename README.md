@@ -1,27 +1,58 @@
-<h1 align="center">Hi 👋, I'm Fentaw Getasew</h1>
-<h3 align="center">A passionate frontend developer from Ethiopia</h3>
+# Hi there 👋, I'm Fentaw Getasew
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fg0712&label=Profile%20views&color=0e75b6&style=flat" alt="fg0712" /> </p>
+## 💻 About Me
+I'm a **Full-Stack Developer** passionate about building modern web applications.  
+I love working with **React, Node.js, Tailwind, and Bootstrap**, and continuously learning new technologies.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fg0712" alt="fg0712" /></a> </p>
+---
 
-- 🌱 I’m currently learning **React**
+## 🛠 Skills
 
-- 💬 Ask me about **python, C++**
+### Frontend
+- HTML5, CSS3, JavaScript
+- React.js, Bootstrap, Tailwind CSS
 
-- 📫 How to reach me **fentawgetasew09@gmail.com**
+### Backend
+- Node.js, Express.js
+- MongoDB / MySQL
 
-- ⚡ Fun fact **I think I am funny**
+### Tools
+- Git & GitHub
+- Postman, VS Code
+- npm, Vite
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+## 📂 Projects
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fg0712&show_icons=true&locale=en&layout=compact" alt="fg0712" /></p>
+### 1. Food Ordering System
+- **Tech:** React, Node.js, Express, MongoDB, Tailwind CSS  
+- **Features:** User login/signup, menu browsing, cart, order placement, admin dashboard  
+- **Repo:** [food-ordering-system](https://github.com/yourusername/food-ordering-system)  
+- **Demo:** *Add live link if hosted*
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fg0712&show_icons=true&locale=en" alt="fg0712" /></p>
+### 2. Portfolio Website
+- **Tech:** React, Tailwind CSS  
+- **Features:** Showcases my projects, skills, and contact info  
+- **Repo:** [portfolio](https://github.com/yourusername/portfolio)  
+- **Demo:** *Add live link if hosted*
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fg0712&" alt="fg0712" /></p>
+### 3. Mini Market System (Full-Stack Project)
+- **Tech:** Java, JavaFX, MySQL  
+- **Features:** Product management, customer orders, admin panel  
+- **Repo:** [mini-market-system](https://github.com/yourusername/mini-market-system)
+
+---
+
+## 📈 GitHub Stats
+![Fentaw's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+
+---
+
+## 📫 Contact Me
+- **Email:** your.email@example.com  
+- **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
+- **Portfolio:** [yourwebsite.com](https://yourwebsite.com)
+
+---
+
