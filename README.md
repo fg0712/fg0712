@@ -50,7 +50,7 @@ I love working with **React, Node.js, Tailwind, and Bootstrap**, and continuousl
 ---
 
 ## 📫 Contact Me
-- **Email:** your.email@example.com  
+- **Email:** fentawgetasew09@gmail.com  
 - **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
 - **Portfolio:** [yourwebsite.com](https://yourwebsite.com)
 
